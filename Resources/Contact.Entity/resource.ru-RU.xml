@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrIDCard.Caption" Value="ID Карта" />
+			<Item Name="Columns.UsrSendingTransactions.Caption" Value="Рассылка транзакций" />
+			<Item Name="Columns.UsrTransactionAmount.Caption" Value="Сумма по транзакциям" />
+		</Items>
+	</Group>
+</Resources>
