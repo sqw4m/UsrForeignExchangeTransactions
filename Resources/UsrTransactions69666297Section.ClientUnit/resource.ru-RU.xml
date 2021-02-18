@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема раздела: &quot;Транзакции&quot;" />
+			<Item Name="LocalizableStrings.ActivateTransaction.Value" Value="Активировать транзакцию" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Транзакции" />
+			<Item Name="LocalizableStrings.ClosingTransactionsButtonCaption.Value" Value="Закрытие транзакций" />
+			<Item Name="LocalizableStrings.CreateTransactionMessage.Value" Value="Создать сообщение по транзакции" />
+			<Item Name="LocalizableStrings.TransactionsReportDataFilterPrint.Value" Value="Отчет по транзакциям (дата)" />
+			<Item Name="LocalizableStrings.TransactionsReportFilterPrint.Value" Value="Отчет по транзакциям (фильтр раздела)" />
+			<Item Name="LocalizableStrings.UpdateExchangeRates.Value" Value="Актуализировать курсы валют" />
+		</Items>
+	</Group>
+</Resources>
