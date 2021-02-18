@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "196e7c79-d75f-4ae2-9b8c-4ee26b1dabfb",
+    "Name": "UsrClosingTransactions",
+    "ModifiedOnUtc": "\/Date(1608392258000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Закрытие транзакций",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "804b6c59-06aa-4f28-b7c4-8a6aa6a7c499",
+    "Name": "UsrContactMessageTemplates",
+    "ModifiedOnUtc": "\/Date(1610438149000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Base lookup",
+    "DependsOn": []
+  }
+}

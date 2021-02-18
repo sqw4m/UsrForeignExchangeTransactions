@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "71b0f221-8360-48fc-9e80-d5555bb6996d",
+    "Name": "UsrConstants",
+    "ModifiedOnUtc": "\/Date(1612293275000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Константы",
+    "DependsOn": []
+  }
+}
