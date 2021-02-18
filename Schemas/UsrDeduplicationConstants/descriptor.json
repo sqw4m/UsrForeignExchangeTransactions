@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "faffb0a2-b131-4603-b904-d49f29972208",
+    "Name": "UsrDeduplicationConstants",
+    "ModifiedOnUtc": "\/Date(1612343974000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Константы поиска дублей",
+    "DependsOn": []
+  }
+}

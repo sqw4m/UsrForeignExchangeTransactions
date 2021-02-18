@@ -1,0 +1,199 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+      "A2": "UsrGenerationMailingTtransactionReports",
+      "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+      "B1": [],
+      "B2": [],
+      "B3": [
+        {
+          "UId": "a2bae038-5552-4ea1-98c9-df49619c3386",
+          "A2": "System.Net",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "015f212f-628f-4b86-aa44-c2e054171f17",
+          "A2": "System.Net.Mail",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "399bcd66-b9c5-4d62-8418-c7734df161c5",
+          "A2": "Terrasoft.Configuration.ReportService",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "3ce7a168-d311-48fe-ab12-3ec6b60b9ada",
+          "A2": "System.IO",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "18b4add7-4177-42e5-afb5-89187a30e10c",
+          "A2": "Terrasoft.Configuration",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        }
+      ],
+      "B6": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+      "B8": "7.16.3.1473",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+        "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "62e8a9ef-de13-4866-95d0-78b2edd5ebbf",
+          "A2": "LaneSet1",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "476b9b38-415a-4b4f-a863-2415ff0e2031",
+              "A2": "Lane1",
+              "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+              "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+              "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+              "IL2": "62e8a9ef-de13-4866-95d0-78b2edd5ebbf",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "62e8a9ef-de13-4866-95d0-78b2edd5ebbf",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "eb7f801e-7e7b-40b9-9e28-3e89da9977a5",
+          "A2": "StartEvent1",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "476b9b38-415a-4b4f-a863-2415ff0e2031",
+          "BL3": "50;184",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "79e05e6a-8b81-4ee2-861a-9d63d1cd305c",
+          "A2": "TerminateEvent1",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "476b9b38-415a-4b4f-a863-2415ff0e2031",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "655758fc-84fd-4ffb-9d07-fc53a814c753",
+          "A2": "SendingTransactionReportsWithAttachment",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "476b9b38-415a-4b4f-a863-2415ff0e2031",
+          "BL3": "301;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "var userConnection = context.UserConnection;\n\nEntitySchemaQuery contactESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"Contact\");\nEntitySchemaQueryColumn queryIdColumn = contactESQ.AddColumn(\"Id\");\nEntitySchemaQueryColumn queryNameColumn = contactESQ.AddColumn(\"Name\");\nEntitySchemaQueryColumn queryEmailColumn = contactESQ.AddColumn(\"Email\");\nEntitySchemaQueryColumn queryUsrSendingTransactionsColumn = contactESQ.AddColumn(\"UsrSendingTransactions\");\nEntitySchemaQueryColumn queryTypeIdColumn = contactESQ.AddColumn(\"Type\");\ncontactESQ.UseAdminRights = false;\ncontactESQ.Filters.Add(contactESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"UsrSendingTransactions\", true));\n\nEntityCollection contacts = contactESQ.GetEntityCollection(userConnection);\nif(contacts.Count > 0)\n{\n\tforeach(var contact in contacts)\n\t{\n\t\tvar contactId = contact.GetTypedColumnValue<Guid>(queryIdColumn.Name).ToString();\n\t\tvar contactTypeId = contact.GetTypedColumnValue<Guid>(\"TypeId\").ToString();\n\t\tvar email = contact.GetTypedColumnValue<string>(\"Email\");\n\t\tvar name = contact.GetTypedColumnValue<string>(\"Name\");\n\t\tvar emailTemplateId = GetEmailTemplateId(userConnection, contactTypeId);\n\t\tvar subjectAndBody = GetSubjectAndBody(userConnection, emailTemplateId, name);\n\t\tvar transactionsOfContact = GetAllTransactionsOfContact(userConnection, contactId);\n\t\tvar attachments = CreateAttachments(userConnection, transactionsOfContact);\n\t\t\n\t\tif(transactionsOfContact.Count > 0)\n\t\t{\n\t\t\tSendMessage(userConnection, email, subjectAndBody.Item1, subjectAndBody.Item2, attachments);\n\t\t}\n\t}\n\t\n}\n\nreturn true;",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "6fecba6f-c5d9-437f-b3f3-9393cbc33877",
+          "A2": "SequenceFlow1",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "CI1": "eb7f801e-7e7b-40b9-9e28-3e89da9977a5",
+          "CI2": "655758fc-84fd-4ffb-9d07-fc53a814c753",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "301;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "9f3d94cc-623e-4bf9-b6eb-8cd56f98d29f",
+          "A2": "SequenceFlow2",
+          "A3": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A4": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+          "CI1": "655758fc-84fd-4ffb-9d07-fc53a814c753",
+          "CI2": "79e05e6a-8b81-4ee2-861a-9d63d1cd305c",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "370;200",
+          "CI12": "600;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK32": "private void SendMessage(UserConnection userConnection, \n\tstring email, string subject, string body, List<Attachment> attachments)\n{\n\tvar to = new MailAddress(email);\n\tvar from = new MailAddress(\"terrasoftcreatio@gmail.com\", \"Creatio Terrasoft\");\n\n\tMailMessage mailMessage = new MailMessage(from, to){\n\t\tSubject = subject,\n\t\tBody = body,\n\t\tIsBodyHtml = true\n\t};\n\t\n\tforeach(var attachment in attachments)\n\t{\n\t\tmailMessage.Attachments.Add(attachment);\n\t}\n\t\n\tSmtpClient smtpClient = new SmtpClient(\"smtp.gmail.com\", 587);\n\n\tsmtpClient.Credentials = new NetworkCredential(\"terrasoftcreatio@gmail.com\", \"Aa1234568\");\n\tsmtpClient.EnableSsl = true;\n\n\tsmtpClient.Send(mailMessage);\n}\n\nprivate string GetEmailTemplateId(UserConnection userConnection, string usrContactTypeId)\n{\n\tEntitySchemaQuery contactMessageTemplatesESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"UsrContactMessageTemplates\");\n\tEntitySchemaQueryColumn queryUsrMessageTemplateIdColumn = contactMessageTemplatesESQ.AddColumn(\"UsrMessageTemplate\");\n\tcontactMessageTemplatesESQ.UseAdminRights = false;\n\tcontactMessageTemplatesESQ\n\t\t.Filters\n\t\t.Add(contactMessageTemplatesESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"UsrContactType\", usrContactTypeId));\n\tEntityCollection contactmessageTemplates = contactMessageTemplatesESQ.GetEntityCollection(userConnection);\n\tif(contactmessageTemplates.Count > 0)\n\t{\n\t\tvar emailTemplateId = contactmessageTemplates[0].GetTypedColumnValue<Guid>(\"UsrMessageTemplateId\").ToString();\n\t\treturn emailTemplateId;\n\t}\n\t\n\treturn string.Empty;\n}\n\nprivate (string, string) GetSubjectAndBody(UserConnection userConnection, string emailTemplateId, string name)\n{\n\tEntitySchemaQuery emailTemplateESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"EmailTemplate\");\n\tEntitySchemaQueryColumn queryIdColumn = emailTemplateESQ.AddColumn(\"Id\");\n\tEntitySchemaQueryColumn queryBodyColumn = emailTemplateESQ.AddColumn(\"Body\");\n\tEntitySchemaQueryColumn querySubjectColumn = emailTemplateESQ.AddColumn(\"Subject\");\n\temailTemplateESQ.UseAdminRights = false;\n\temailTemplateESQ.Filters.Add(emailTemplateESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"Id\", emailTemplateId));\n\tEntityCollection emailTemplates = emailTemplateESQ.GetEntityCollection(userConnection);\n\tif(emailTemplates.Count > 0)\n\t{\n\t\tvar body = emailTemplates[0].GetTypedColumnValue<string>(\"Body\");\n\t\tvar subject = emailTemplates[0].GetTypedColumnValue<string>(\"Subject\");\n\t\t\n\t\tvar emailTemplateSender = new Terrasoft.Configuration.ProcessDesigner.EmailTemplateSender(userConnection);\n\t\tList<string>macroses = emailTemplateSender.FindMacro(body);\n\t\t\n\t\tforeach(string macros in macroses)\n\t\t{\n\t\t\tvar macrosForBody = \"[#\" + macros + \"#]\";\n\t\t\tbody = body.Replace(macrosForBody, name);\n\t\t}\n\t\t\n\t\treturn (subject, body);\n\t}\n\t\n\treturn (string.Empty, string.Empty);\n}\n\nprivate List<string> GetAllTransactionsOfContact(UserConnection userConnection, string contactId)\n{\n\tList<string> transactionsUids = new List<string>();\n\tEntitySchemaQuery transactionESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"UsrTransactions\");\n\tEntitySchemaQueryColumn queryIdColumn = transactionESQ.AddColumn(\"Id\");\n\tEntitySchemaQueryColumn queryMailingDateColumn = transactionESQ.AddColumn(\"UsrMailingDate\");\n\ttransactionESQ.UseAdminRights = false;\n\ttransactionESQ.Filters.Add(transactionESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"UsrContact.Id\", contactId));\n\tEntityCollection transactions = transactionESQ.GetEntityCollection(userConnection);\n\tif(transactions.Count > 0)\n\t{\n\t\tforeach(var transaction in transactions)\n\t\t{\n\t\t\tvar trMailingDate = transaction.GetTypedColumnValue<string>(queryMailingDateColumn.Name);\n\t\t\tvar trId = transaction.GetTypedColumnValue<Guid>(queryIdColumn.Name);\n\t\t\tif(trMailingDate == string.Empty)\n\t\t\t{\n\t\t\t\ttransactionsUids.Add(trId.ToString());\n\t\t\t}\n\t\t}\n\t}\n\t\n\treturn transactionsUids;\n}\n\nprivate List<Attachment> CreateAttachments(UserConnection userConnection, List<string> transactionUids)\n{\n\tList<Attachment> attachments = new List<Attachment>();\n\tvar reportService = new ReportService(userConnection);\n\n\tvar templateId = UsrConstants.MSWordReports.CONTACT_TRANSACTIONS_INFO_ID;\n\tint number = 0;\n\t\n\tforeach(var transactionId in transactionUids)\n\t{\n\t\tvar report = reportService.GenerateMSWordReport(templateId, transactionId, false);\n\t\n\t\tvar reportCaption = \"Contact_transactions\" + number + \".\" + report.Format;\n\t\tvar contentType = \"application/octet-stream; charset=UTF-8\";\n\t\tvar reportStream = new MemoryStream(report.Data);\n\t\n\t\tvar attachment = new Attachment(reportStream, contentType);\n\t\tattachment.ContentDisposition.FileName = reportCaption;\n\t\n\t\tattachments.Add(attachment);\n\t\tnumber++;\n\t\t\n\t\tSetLastMailngDate(userConnection, transactionId);\n\t}\n\t\n\treturn attachments;\n}\n\nprivate void SetLastMailngDate(UserConnection userConnection, string id)\n{\n\tstring date = DateTime.Today.ToString() ?? \"2020-01-14\";\n\tvar upd = new Update(userConnection, \"UsrTransactions\")\n\t\t.Set(\"UsrMailingDate\", Column.Parameter(date))\n\t\t.Where(\"Id\").IsEqual(Column.Parameter(id));\n\t\t\n\tvar cnt = upd.Execute();\n}",
+      "BK34": "null",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

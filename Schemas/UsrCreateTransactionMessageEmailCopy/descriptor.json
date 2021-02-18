@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5c7f21ac-a247-4aad-950b-c89242c7798e",
+    "Name": "UsrCreateTransactionMessageEmailCopy",
+    "ModifiedOnUtc": "\/Date(1608115563000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создать и отправить сообщение по транзакции КОПИЯ",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "37b2642b-359f-4ab3-b14f-0ef4ba12ee71",
+    "Name": "UsrDeduplicationProcessing",
+    "ModifiedOnUtc": "\/Date(1612439991000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Deduplication processing",
+    "DependsOn": []
+  }
+}

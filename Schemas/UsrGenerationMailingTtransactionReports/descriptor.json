@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "eaffac91-0e64-4453-8983-8eb42cba3c82",
+    "Name": "UsrGenerationMailingTtransactionReports",
+    "ModifiedOnUtc": "\/Date(1612957320000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Формирование и рассылка отчетов о транзакции",
+    "DependsOn": []
+  }
+}

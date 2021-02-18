@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "595639b3-fbc4-48ae-8b97-7eb1d6c1e7e9",
+    "Name": "UsrCurrentDate",
+    "ModifiedOnUtc": "\/Date(1610370642000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Макрос текущей даты",
+    "DependsOn": []
+  }
+}

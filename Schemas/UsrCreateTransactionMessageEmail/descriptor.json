@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6c8ade16-c21e-476e-bac9-e95b8ecee939",
+    "Name": "UsrCreateTransactionMessageEmail",
+    "ModifiedOnUtc": "\/Date(1607956900000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 1",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "63f14287-4c99-4916-8cd5-3fa01fbbd575",
+    "Name": "UsrCreateTransactionMessage",
+    "ModifiedOnUtc": "\/Date(1611315864000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Создать запись на детали Сообщения по транзакции",
+    "DependsOn": []
+  }
+}
