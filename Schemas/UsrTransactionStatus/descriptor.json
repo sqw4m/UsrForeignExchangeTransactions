@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a88450e1-ba37-4314-9565-2427fc09a60c",
+    "Name": "UsrTransactionStatus",
+    "ModifiedOnUtc": "\/Date(1608388304000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние транзакции",
+    "DependsOn": []
+  }
+}

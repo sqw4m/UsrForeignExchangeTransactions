@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "adeac838-d6d8-4841-8dc7-4d574c36f29d",
+    "Name": "UsrTrReportPrint",
+    "ModifiedOnUtc": "\/Date(1613033407000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Сервис создания excel отчета",
+    "DependsOn": []
+  }
+}

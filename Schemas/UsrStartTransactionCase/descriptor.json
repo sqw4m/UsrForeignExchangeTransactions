@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "73ae3412-83ca-4580-a592-7e9b041d5587",
+    "Name": "UsrStartTransactionCase",
+    "ModifiedOnUtc": "\/Date(1612517060000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Запустить транзакцию",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b272ab5-d00f-4afa-9f40-dc738db603fe",
+    "Name": "UsrTrMessagesPage",
+    "ModifiedOnUtc": "\/Date(1611841726000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Сообщения по транзакции\"",
+    "DependsOn": []
+  }
+}

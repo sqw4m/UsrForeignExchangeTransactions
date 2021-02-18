@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "df98902c-65c6-4fcf-aa0e-377693820660",
+    "Name": "UsrTransactionConstants",
+    "ModifiedOnUtc": "\/Date(1612878246000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Константы транзакций",
+    "DependsOn": []
+  }
+}

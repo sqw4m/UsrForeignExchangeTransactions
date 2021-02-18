@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8a0ae09f-9472-4eee-95fa-7622c5ac8f65",
+    "Name": "UsrTrState",
+    "ModifiedOnUtc": "\/Date(1611211651000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Base lookup",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bcf17ed1-f5f5-49fd-8f50-8b595f0460da",
+    "Name": "UsrTransactionDirection",
+    "ModifiedOnUtc": "\/Date(1607517448000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Направление транзакции",
+    "DependsOn": []
+  }
+}

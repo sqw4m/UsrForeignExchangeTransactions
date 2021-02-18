@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ff2f2e8d-c8f5-42cf-8267-075ace58ef38",
+    "Name": "UsrUpdatingExchangeRatesIntegration",
+    "ModifiedOnUtc": "\/Date(1608803778000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Интеграция для актуализации курсов валют",
+    "DependsOn": []
+  }
+}

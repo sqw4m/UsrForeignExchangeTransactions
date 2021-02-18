@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "12a18ded-b412-41d2-929d-9c2e786aff7f",
+    "Name": "UsrTransactions1Page",
+    "ModifiedOnUtc": "\/Date(1613482867000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Транзакции\"",
+    "DependsOn": []
+  }
+}

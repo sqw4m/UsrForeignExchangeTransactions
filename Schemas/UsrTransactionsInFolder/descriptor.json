@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d678ddd0-0dd4-4e9c-b152-9fa8a1b4d01d",
+    "Name": "UsrTransactionsInFolder",
+    "ModifiedOnUtc": "\/Date(1607517464000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Транзакции в группе",
+    "DependsOn": []
+  }
+}

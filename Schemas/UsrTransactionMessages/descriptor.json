@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "eece73e6-4032-402f-bb2e-7289de8672e2",
+    "Name": "UsrTransactionMessages",
+    "ModifiedOnUtc": "\/Date(1607610404000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Сообщения по транзакции",
+    "DependsOn": []
+  }
+}
