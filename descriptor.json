@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+    "PackageVersion": "7.8.0",
+    "Name": "UsrForeignExchangeTransactions",
+    "ModifiedOnUtc": "\/Date(1607513571000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
