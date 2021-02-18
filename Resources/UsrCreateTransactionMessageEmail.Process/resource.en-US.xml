@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.FormulaTask5.Caption" Value="Адрес получателя" />
+			<Item Name="BaseElements.FormulaTask6.Caption" Value="Тема письма" />
+			<Item Name="BaseElements.FormulaTask7.Caption" Value="Тело письма" />
+			<Item Name="BaseElements.ReadDataUserTask7.Caption" Value="Читать данные новой транзакции" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask7.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.ReadDataUserTask8.Caption" Value="Читать данные контакта новой транзакции" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask8.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.StartSignal3.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="Caption" Value="Бизнес-процесс 1" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.ContactEmail.Caption" Value="Email контакта" />
+			<Item Name="Parameters.MessageBody.Caption" Value="Тело письма" />
+			<Item Name="Parameters.MessageTheme.Caption" Value="Тема письма" />
+		</Items>
+	</Group>
+</Resources>

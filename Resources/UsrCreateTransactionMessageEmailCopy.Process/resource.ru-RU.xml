@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow4.Caption" Value="Email заполнен" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Email отсутствует" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Id контакта" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Текст сообщения по транзакции" />
+			<Item Name="BaseElements.FormulaTask3.Caption" Value="Id транзакции" />
+			<Item Name="BaseElements.InsertNewTransactionMessageScript.Caption" Value="Создать запись на деталь Сообщения по транзакции" />
+			<Item Name="BaseElements.ReadContactEmailScript.Caption" Value="Читать Email контакта" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читать данные транзакции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Сигнал создания новой транзакции" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="Caption" Value="Создать и отправить сообщение по транзакции КОПИЯ" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.ContactEmail.Caption" Value="Email контакта" />
+			<Item Name="Parameters.ContactId.Caption" Value="Id контакта" />
+			<Item Name="Parameters.TransactionId.Caption" Value="id транзакции" />
+			<Item Name="Parameters.TransactionMessage.Caption" Value="Текст сообщения по транзакции" />
+			<Item Name="Parameters.transactionMessageTypeId.Caption" Value="Тип сообщения транзакции" />
+			<Item Name="Parameters.transactionMessageTypeId.DisplayValue" Value="new Guid(&quot;9A642CD8-D4DC-47A2-867C-026FF43A8438&quot;)" />
+		</Items>
+	</Group>
+</Resources>
