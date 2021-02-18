@@ -1,0 +1,108 @@
+div[id*="UsrSchemaTrFileDetail"] {
+    .grid-status-message-empty {
+        display: none;
+    }
+    .grid-empty > .grid-bottom-spinner-space {
+        height: 5px;
+    }
+    .dropzone {
+        height: 35px;
+        width: 100%;
+        border: 1px dashed #999999;
+        text-align: center;
+        line-height: 35px;
+    }
+    .dropzone-hover {
+        border: 1px dashed #4b7fc7;
+    }
+    .DragAndDropLabel {
+        font-size: 1.8em;
+        color: rgb(110, 110, 112);
+    }
+}
+
+div[data-item-marker*="added-detail"] {
+    div[data-item-marker*="tiled"], div[data-item-marker*="listed"] {
+        .entity-image-class {
+            width: 165px;
+        }
+        .entity-image-container-class {
+            float: right;
+            width: 128px;
+            height: 128px;
+            text-align: center;
+            line-height: 128px;
+        }
+        .entity-image-view-class {
+            max-width: 128px;
+            max-height: 128px;
+            vertical-align: middle;
+        }
+        .images-list-class {
+            min-height: 0.5em;
+        }
+        .images-list-class > .selectable {
+            margin-right: 10px;
+            display: inline-block;
+        }
+        .entity-label {
+            display: block;
+            max-width: 128px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .entity-link-container-class > a {
+            font-size: 1.4em;
+            line-height: 1.5em;
+            display: block;
+            max-width: 128px;
+            margin-bottom: 10px;
+            color: #444;
+            text-decoration: none;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+        .entity-link-container-class > a:hover {
+            color: #0e84cf;
+        }
+        .entity-link-container-class {
+            float: right;
+            width: 128px;
+            text-align: center;
+        }
+        .select-entity-container-class {
+            float: left;
+            width: 2em;
+        }
+        .listed-mode-button {
+            border-top-right-radius: 1px;
+            border-bottom-right-radius: 1px;
+        }
+        .tiled-mode-button {
+            border-top-left-radius: 1px;
+            border-bottom-left-radius: 1px;
+        } 
+        .tiled-mode-button, .listed-mode-button {
+            padding-left: 0.308em;
+            padding-right: 0.462em;
+        }
+    }
+    .button-pressed {
+        background: #fff;
+        
+        .t-btn-image {
+            background-position: 0 16px !important;
+        }
+    }
+    div[data-item-marker*="tiled"] {
+        .tiled-mode-button {
+            .button-pressed;
+        }
+    }
+    div[data-item-marker*="listed"] {
+        .listed-mode-button {
+            .button-pressed;
+        }
+    }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e59785ae-344e-47d9-a178-ed11dfff8479",
+    "Name": "UsrSendTransactionsReportProcess",
+    "ModifiedOnUtc": "\/Date(1612959576000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send transactions report",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "364ac358-6286-4775-8787-75abefde3a02",
+    "Name": "UsrSchemaTrFileDetail",
+    "ModifiedOnUtc": "\/Date(1611838271000)\/",
+    "Parent": {
+      "UId": "0c43958a-a409-47bc-a3cb-9bc32451a45a",
+      "Name": "FileDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Файлы и ссылки\"",
+    "DependsOn": []
+  }
+}

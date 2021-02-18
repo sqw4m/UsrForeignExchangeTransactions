@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+    "Name": "UsrSendMessageResultTransaction",
+    "ModifiedOnUtc": "\/Date(1611247892000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправить сообщение о результате транзакции",
+    "DependsOn": []
+  }
+}

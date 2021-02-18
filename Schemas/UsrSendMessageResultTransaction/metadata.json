@@ -1,0 +1,234 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+      "A2": "UsrSendMessageResultTransaction",
+      "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+      "B1": [],
+      "B2": [],
+      "B3": [
+        {
+          "UId": "9ce772d6-6a86-4d13-9325-7ffe885459f6",
+          "A2": "System.Net",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "c4baa682-6c3a-4356-acda-2689a32cff0e",
+          "A2": "System.Net.Mail",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "6fbbde39-308f-4af0-90f5-bfb6ccf10c52",
+          "A2": "Terrasoft.Configuration.ReportService",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "93202835-0bdd-4e81-a43d-93f51a233fc5",
+          "A2": "System.IO",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "b25646fe-ae23-40ce-94b4-a28d6fde8f5b",
+          "A2": "Terrasoft.Configuration",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        }
+      ],
+      "B6": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+      "B8": "7.16.3.1473",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "1d780d60-7183-4ea2-a636-ea214730d22e",
+          "A2": "ContactId",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "L8": {
+            "GS5": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "346d012d-dff7-4f07-8a95-7b09d9ce0c6f",
+          "A2": "IsDone",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+          "L8": {
+            "GS2": "false",
+            "GS5": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "8959cb75-a731-41b3-8f08-19bc2a4db246",
+          "A2": "TransactionNumber",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "L1": "325a73b8-0f47-44a0-8412-7606f78003ac",
+          "L8": {
+            "GS5": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235"
+          }
+        }
+      ],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+        "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "cfb7b129-94fc-4a47-95e3-8ce2d7cfd381",
+          "A2": "LaneSet1",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "d5db4e66-88ec-4fbf-ab71-487baed84935",
+              "A2": "Lane1",
+              "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+              "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+              "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+              "IL2": "cfb7b129-94fc-4a47-95e3-8ce2d7cfd381",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "cfb7b129-94fc-4a47-95e3-8ce2d7cfd381",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "fc9cbe64-d0a1-46ed-88d5-9cc252748022",
+          "A2": "StartEvent1",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "d5db4e66-88ec-4fbf-ab71-487baed84935",
+          "BL3": "50;184",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "7f6862ee-415d-4d77-8b6f-40854887e9b8",
+          "A2": "TerminateEvent1",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "d5db4e66-88ec-4fbf-ab71-487baed84935",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "af1ceb45-afb3-4ad4-92e2-8dde17877b77",
+          "A2": "SendMessage",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "d5db4e66-88ec-4fbf-ab71-487baed84935",
+          "BL3": "294;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "var userConnection = context.UserConnection;\n\nvar contactId = Get<Guid>(\"ContactId\");\nvar isDone = Get<bool>(\"IsDone\");\nvar trNumber = Get<string>(\"TransactionNumber\");\n\nEntitySchemaQuery contactESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"Contact\");\nEntitySchemaQueryColumn queryIdColumn = contactESQ.AddColumn(\"Id\");\nEntitySchemaQueryColumn queryNameColumn = contactESQ.AddColumn(\"Name\");\nEntitySchemaQueryColumn queryEmailColumn = contactESQ.AddColumn(\"Email\");\nEntitySchemaQueryColumn queryTypeIdColumn = contactESQ.AddColumn(\"Type\");\ncontactESQ.UseAdminRights = false;\ncontactESQ.Filters.Add(contactESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"Id\", contactId));\n\nEntityCollection contacts = contactESQ.GetEntityCollection(userConnection);\nif(contacts.Count > 0)\n{\n\tforeach(var contact in contacts)\n\t{\n\t\tvar email = contact.GetTypedColumnValue<string>(\"Email\");\n\t\tvar name = contact.GetTypedColumnValue<string>(\"Name\");\n\t\tvar emailTemplateId = isDone ? \n\t\t\tUsrConstants.EmailTemplates.DONE_TRANSACTION_TEMPLATE : UsrConstants.EmailTemplates.CANCEL_TRANSACTION_TEMPLATE;\n\t\tvar subjectAndBody = GetSubjectAndBody(userConnection, emailTemplateId, name, trNumber);\n\t\t\n\t\tSendMessage(userConnection, email, subjectAndBody.Item1, subjectAndBody.Item2);\n\t}\n\t\n}\n\nreturn true;",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "9219b694-17f5-4be8-9485-81dc59a6c994",
+          "A2": "SequenceFlow1",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "CI1": "fc9cbe64-d0a1-46ed-88d5-9cc252748022",
+          "CI2": "af1ceb45-afb3-4ad4-92e2-8dde17877b77",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "294;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "063f3f65-1bdb-4a2a-a10c-d91a622dec9d",
+          "A2": "SequenceFlow2",
+          "A3": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A4": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "7ccdd0ad-8985-4bd1-b05c-efc4c5935235",
+          "CI1": "af1ceb45-afb3-4ad4-92e2-8dde17877b77",
+          "CI2": "7f6862ee-415d-4d77-8b6f-40854887e9b8",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "363;200",
+          "CI12": "600;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK32": "private void SendMessage(UserConnection userConnection, string email, string subject, string body)\n{\n\tvar to = new MailAddress(email);\n\tvar from = new MailAddress(\"terrasoftcreatio@gmail.com\", \"Creatio Terrasoft\");\n\n\tMailMessage mailMessage = new MailMessage(from, to){\n\t\tSubject = subject,\n\t\tBody = body,\n\t\tIsBodyHtml = true\n\t};\n\t\n\tSmtpClient smtpClient = new SmtpClient(\"smtp.gmail.com\", 587);\n\n\tsmtpClient.Credentials = new NetworkCredential(\"terrasoftcreatio@gmail.com\", \"Aa1234568\");\n\tsmtpClient.EnableSsl = true;\n\n\tsmtpClient.Send(mailMessage);\n}\n\nprivate (string, string) GetSubjectAndBody(UserConnection userConnection, string emailTemplateId, string name, string trNum)\n{\n\tEntitySchemaQuery emailTemplateESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"EmailTemplate\");\n\tEntitySchemaQueryColumn queryIdColumn = emailTemplateESQ.AddColumn(\"Id\");\n\tEntitySchemaQueryColumn queryBodyColumn = emailTemplateESQ.AddColumn(\"Body\");\n\tEntitySchemaQueryColumn querySubjectColumn = emailTemplateESQ.AddColumn(\"Subject\");\n\temailTemplateESQ.UseAdminRights = false;\n\temailTemplateESQ.Filters.Add(emailTemplateESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"Id\", emailTemplateId));\n\tEntityCollection emailTemplates = emailTemplateESQ.GetEntityCollection(userConnection);\n\t\n\tif(emailTemplates.Count > 0)\n\t{\n\t\tvar body = emailTemplates[0].GetTypedColumnValue<string>(\"Body\");\n\t\tvar subject = emailTemplates[0].GetTypedColumnValue<string>(\"Subject\");\n\t\t\n\t\tvar emailTemplateSender = new Terrasoft.Configuration.ProcessDesigner.EmailTemplateSender(userConnection);\n\t\tList<string> macroses = emailTemplateSender.FindMacro(body);\n\t\t\n\t\tvar macrosName = \"[#\" + macroses[0] + \"#]\";\n\t\tvar macrosNum = \"[#\" + macroses[1] + \"#]\";\n\t\tbody = body.Replace(macrosName, name);\n\t\tbody = body.Replace(macrosNum, trNum);\n\t\t\n\t\treturn (subject, body);\n\t}\n\t\n\treturn (string.Empty, string.Empty);\n}\n",
+      "BK34": "null",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

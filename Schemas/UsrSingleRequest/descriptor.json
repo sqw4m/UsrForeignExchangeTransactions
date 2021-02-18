@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3f3f1d97-d0e5-4fdb-852a-d22d710f2fea",
+    "Name": "UsrSingleRequest",
+    "ModifiedOnUtc": "\/Date(1612435136000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Single Request",
+    "DependsOn": []
+  }
+}

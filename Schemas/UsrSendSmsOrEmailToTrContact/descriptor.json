@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+    "Name": "UsrSendSmsOrEmailToTrContact",
+    "ModifiedOnUtc": "\/Date(1612195774000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отправить SMS или Email по транзакции",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+      "A2": "UsrSendSmsOrEmailToTrContact",
+      "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+      "B1": [],
+      "B2": [],
+      "B3": [
+        {
+          "UId": "8182d6f4-f23f-4f16-930d-8dd87610b0d7",
+          "A2": "Twilio",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "e90b146b-601e-48d6-bc3b-92bb4e491815",
+          "A2": "Twilio.Rest.Api.V2010.Account",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "d275c0c4-b752-4b91-b5a9-fdba4dd5b0f6",
+          "A2": "Twilio.Types",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "cac58490-00ea-42f9-a3a6-b0b9321558e4",
+          "A2": "System.Net",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "8a517815-1387-4d7b-8d67-650be595cfdd",
+          "A2": "System.Net.Mail",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "f76f735d-a294-445e-9cbf-14f04d2abb7b",
+          "A2": "Terrasoft.Core",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        },
+        {
+          "UId": "5fee8c5d-7e2e-41c8-8dcc-e44095015edb",
+          "A2": "Terrasoft.Configuration",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "67eddef6-96eb-450f-a20b-bef89a44cb1b",
+          "GF1": "null"
+        }
+      ],
+      "B6": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+      "B8": "7.16.3.1473",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+        "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "a3d99cf0-19d2-4c04-b994-f6a82d004554",
+          "A2": "LaneSet1",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "15c87eef-ca3f-4b86-aca4-574a351c2ec0",
+              "A2": "Lane1",
+              "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+              "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+              "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+              "IL2": "a3d99cf0-19d2-4c04-b994-f6a82d004554",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "a3d99cf0-19d2-4c04-b994-f6a82d004554",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "60b866a9-3d78-4027-a276-a032e1723fcd",
+          "A2": "TerminateEvent1",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "15c87eef-ca3f-4b86-aca4-574a351c2ec0",
+          "BL3": "461;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartSignalEvent",
+          "UId": "5bdd5463-589a-4f0b-90fb-7b5611656dc1",
+          "A2": "TrMessageCreating",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "15c87eef-ca3f-4b86-aca4-574a351c2ec0",
+          "IL3": true,
+          "BL3": "50;184",
+          "BL7": "1129e72f-0e8c-445a-b2ea-463517e86395",
+          "BL8": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "099b9392-4ff8-4da4-9dbd-13a5d3185ce1",
+              "A2": "RecordId",
+              "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+              "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+              "IL2": "5bdd5463-589a-4f0b-90fb-7b5611656dc1",
+              "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+              "L8": {
+                "GS1": 1,
+                "GS2": ""
+              }
+            }
+          ],
+          "FC2": "eece73e6-4032-402f-bb2e-7289de8672e2",
+          "ED1": false,
+          "DZ1": "null",
+          "DZ2": false,
+          "DZ3": true,
+          "DZ5": 1,
+          "DZ12": "{\"$type\":\"System.Collections.ObjectModel.Collection`1[[System.String, mscorlib]], mscorlib\",\"$values\":[]}",
+          "DZ13": "{\"className\":\"Terrasoft.FilterGroup\",\"serializedFilterEditData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"UsrTransactionMessages\\\",\\\"key\\\":\\\"\\\"}\",\"dataSourceFilters\":\"{\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"UsrTransactionMessages\\\"}\"}"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "d6971438-7143-43c8-887d-b5a0288a250b",
+          "A2": "SendSmsOrEmail",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "IL2": "15c87eef-ca3f-4b86-aca4-574a351c2ec0",
+          "BL3": "238;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "var userConnection = context.UserConnection;\n\nvar trMessageId = Get<Guid>(\"TrMessageCreating.RecordId\");\n\nEntitySchemaQuery trMessagesESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"UsrTransactionMessages\");\nEntitySchemaQueryColumn queryTypeColumn = trMessagesESQ.AddColumn(\"UsrType\");\nEntitySchemaQueryColumn queryAccountIdColumn = trMessagesESQ.AddColumn(\"UsrTransaction.UsrAccount.Id\");\nEntitySchemaQueryColumn queryContactEmailColumn = trMessagesESQ.AddColumn(\"UsrTransaction.UsrAccount.PrimaryContact.Email\");\nEntitySchemaQueryColumn queryContactPhoneColumn = trMessagesESQ.AddColumn(\"UsrTransaction.UsrAccount.PrimaryContact.MobilePhone\");\nEntitySchemaQueryColumn queryTrNumberColumn = trMessagesESQ.AddColumn(\"UsrTransaction.UsrNumber\");\nEntitySchemaQueryColumn queryBodyMessageColumn = trMessagesESQ.AddColumn(\"UsrMessage\");\ntrMessagesESQ.UseAdminRights = false;\ntrMessagesESQ.Filters.Add(trMessagesESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"Id\", trMessageId));\n\nEntityCollection trMessages = trMessagesESQ.GetEntityCollection(userConnection);\n\nif(trMessages.Count > 0)\n{\n\tforeach(var trMessage in trMessages)\n\t{\n\t\tvar accountId = trMessage.GetTypedColumnValue<Guid>(queryAccountIdColumn.Name).ToString();\n\t\tvar type = trMessage.GetTypedColumnValue<Guid>(\"UsrTypeId\").ToString();\n\t\tvar email = \n\t\t\ttrMessage.GetTypedColumnValue<string>(queryContactEmailColumn.Name) == string.Empty ?\n\t\t\tGetAccountEmail(userConnection, accountId) : \"test@gmail.com\";\n\t\tvar phone =\n\t\t\ttrMessage.GetTypedColumnValue<string>(queryContactPhoneColumn.Name) == string.Empty ?\n\t\t\tGetAccountPhone(userConnection, accountId) : \"+79890000000\";\n\t\tvar trNumber = trMessage.GetTypedColumnValue<string>(queryTrNumberColumn.Name);\n\t\tvar bodyMessage = trMessage.GetTypedColumnValue<string>(queryBodyMessageColumn.Name);\n\t\t\n\t\tif(type == UsrConstants.TrMessageType.EMAIL)\n\t\t{\n\t\t\tSendEmailMessage(email, trNumber, bodyMessage);   \n\t\t}\n\t\telse if(type == UsrConstants.TrMessageType.SMS)\n\t\t{\n\t\t\tSendSmsMessage(userConnection, phone, trNumber, bodyMessage);\n\t\t}\n\t}\n}\n\nreturn true;",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "e7266c2b-5d31-454a-9b87-3a9ec8027e7f",
+          "A2": "SequenceFlow1",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "CI1": "5bdd5463-589a-4f0b-90fb-7b5611656dc1",
+          "CI2": "d6971438-7143-43c8-887d-b5a0288a250b",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "238;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "31475481-b9a7-4848-8636-5ae8dc705dff",
+          "A2": "SequenceFlow2",
+          "A3": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A4": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "A5": "8934e010-fa82-45f1-881e-e15029b4b9e6",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "0392c240-5a5d-4c54-8d10-2fd40c5753aa",
+          "CI1": "d6971438-7143-43c8-887d-b5a0288a250b",
+          "CI2": "60b866a9-3d78-4027-a276-a032e1723fcd",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "307;200",
+          "CI12": "461;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK32": "private void SendEmailMessage(string email, string trNumber, string trMsg)\n{\n\tvar to = new MailAddress(email);\n\tvar from = new MailAddress(\"terrasoftcreatio@gmail.com\", \"Creatio Terrasoft\");\n\t\n\tMailMessage mailMessage = new MailMessage(from, to){\n\t\tSubject = trNumber,\n\t\tBody = trMsg\n\t};\n\t\n\tSmtpClient smtpClient = new SmtpClient(\"smtp.gmail.com\", 587);\n\t\n\tsmtpClient.Credentials = new NetworkCredential(\"terrasoftcreatio@gmail.com\", \"Aa1234568\");\n\tsmtpClient.EnableSsl = true;\n\t\n\tsmtpClient.Send(mailMessage);\n}\n\nprivate string SendSmsMessage(UserConnection userConnection, string phone, string trNumber, string trMsg)\n{\n\tstring accountSid = Terrasoft.Core.Configuration.SysSettings.GetValue<string>(userConnection, \"AccountSid\", string.Empty);\n\tstring authToken = Terrasoft.Core.Configuration.SysSettings.GetValue<string>(userConnection, \"AuthToken\", string.Empty);\n\t\n\tTwilioClient.Init(accountSid, authToken);\n\t\n\tvar to = new PhoneNumber(phone);\n\t\n\tvar message = MessageResource.Create(to, from: new PhoneNumber(\"+14158911921\"), body: trNumber + \"\\r\\n\" + trMsg);\n\t\n\treturn message.Sid;\n}\n\nprivate string GetAccountEmail(UserConnection userConnection, string accountId)\n{\n\tvar email = \"\";\n\tvar communicationTypeEmail = UsrConstants.CommunicationTypeId.EMAIL;\n\t\n\tEntitySchemaQuery accCommESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"AccountCommunication\");\n\tEntitySchemaQueryColumn queryTypeColumn = accCommESQ.AddColumn(\"Number\");\n\taccCommESQ.UseAdminRights = false;\n\taccCommESQ.Filters.Add(accCommESQ.CreateFilterWithParameters(\n\t\tFilterComparisonType.Equal, \"CommunicationType\", communicationTypeEmail));\n\taccCommESQ.Filters.Add(accCommESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"Account\", accountId));\n\t\n\tEntityCollection accComm = accCommESQ.GetEntityCollection(userConnection);\n\t\n\tif(accComm.Count > 0)\n\t{\n\t\temail = accComm[0].GetTypedColumnValue<string>(\"Number\");\n\t}\n\t\n\treturn email;\n}\n\nprivate string GetAccountPhone(UserConnection userConnection, string accountId)\n{\n\tvar phone = \"\";\n\tvar communicationTypePhone = UsrConstants.CommunicationTypeId.PRIMARY_PHONE;\n\t\n\tEntitySchemaQuery accCommESQ = new EntitySchemaQuery(userConnection.EntitySchemaManager, \"AccountCommunication\");\n\tEntitySchemaQueryColumn queryTypeColumn = accCommESQ.AddColumn(\"Number\");\n\taccCommESQ.UseAdminRights = false;\n\taccCommESQ.Filters.Add(accCommESQ.CreateFilterWithParameters(\n\t\tFilterComparisonType.Equal, \"CommunicationType\", communicationTypePhone));\n\taccCommESQ.Filters.Add(accCommESQ.CreateFilterWithParameters(FilterComparisonType.Equal, \"Account\", accountId));\n\t\n\tEntityCollection accComm = accCommESQ.GetEntityCollection(userConnection);\n\t\n\tif(accComm.Count > 0)\n\t{\n\t\tphone = accComm[0].GetTypedColumnValue<string>(\"Number\");\n\t}\n\t\n\treturn phone;\n}",
+      "BK34": "null",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}
