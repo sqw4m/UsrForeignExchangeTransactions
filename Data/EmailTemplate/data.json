@@ -1,0 +1,232 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "47e72ecd-b21c-4b09-933e-6c1263381425",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "54425b16-8b5b-40a1-baf1-3997560a6b0e",
+          "Value": "<!doctype html><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head><title></title><!--[if !mso]><!-- --><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><!--<![endif]--><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style type=\"text/css\"></style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div class=\"mj-block\" style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div class=\"mj-column-per-100 mj-outlook-group-fix\" style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"vertical-align:top;\" width=\"100%\"><tr><td align=\"left\" style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Доброго времени суток,&nbsp;[#Recipient.Contact name#]<br><br>Сообщаем вам о транзакциях СОТРУДНИКОВ.<br>Подробнее с ними можно ознакомиться в приложении к письму.</div></td></tr></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>"
+        },
+        {
+          "SchemaColumnUId": "f73ea119-e10f-4db3-a89f-02b338f69444",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "085d7c7c-fdbc-443a-ad06-1f04ace34173",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1d79f198-184c-42fc-b34f-57898697dade"
+        },
+        {
+          "SchemaColumnUId": "698c2960-3832-4ba4-ad56-8a6489b32ad4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "e6618002-83f7-419a-a866-63ea7599b123",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "26bd9f25-0d50-4c47-829f-8b286576317c",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "b1b8aa8c-787f-42e0-8af1-603d1761f75a",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "1fea7f02-7faa-4a8b-a1f9-ee4e05fef97d",
+          "Value": "619da837-4aac-4e4c-bcef-e2c098e508f7",
+          "DisplayValue": "EmailTemplate1d79f198-184c-42fc-b34f-57898697dade.png"
+        },
+        {
+          "SchemaColumnUId": "feab52f3-9df5-4499-8425-855973838905",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "382c1794-3e8d-4895-91ce-02c9f5e3553e",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "613d189f-c6a0-4ec4-b2b0-a43199cacef4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "cf75d513-0d42-439c-b19f-8c7fe4234460",
+          "Value": "e75ac3fe-be9b-4a01-87db-c7dffd354f8c",
+          "DisplayValue": "Personal message to each recipient"
+        },
+        {
+          "SchemaColumnUId": "aa4c5784-7f68-47d8-b7bb-ee3f89221ac8",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "2e7c35e3-0774-4a4a-bea5-6ce4c8de1465",
+          "Value": "Сотруднику о транзакциях"
+        },
+        {
+          "SchemaColumnUId": "b4972436-c042-4a3b-a025-f04575f10532",
+          "Value": "{\"ItemType\":\"sheet\",\"Caption\":\"Дизайнер контента\",\"Width\":600,\"BackgroundColor\":\"#ffffff\",\"SheetAlign\":\"center\",\"BreakpointWidth\":480,\"Items\":[{\"ItemType\":\"mjblock\",\"Styles\":{\"background-position\":\"top center\",\"background-repeat\":\"no-repeat\"},\"Items\":[{\"ItemType\":\"section\",\"Styles\":{\"direction\":\"ltr\"},\"Items\":[{\"ItemType\":\"column\",\"Width\":100,\"Styles\":{},\"WrapperStyles\":{\"vertical-align\":\"top\",\"direction\":\"ltr\",\"width\":\"100%\"},\"Items\":[{\"ItemType\":\"text\",\"Content\":\"Доброго времени суток,&nbsp;[#Recipient.Contact name#]<br />\\n<br />\\nСообщаем вам о транзакциях СОТРУДНИКОВ.<br />\\nПодробнее с ними можно ознакомиться в приложении к письму.\",\"Styles\":{\"font-family\":\"Arial, Helvetica, sans-serif\",\"font-size\":\"13px\",\"color\":\"#000001\",\"line-height\":\"22px\",\"text-align\":\"left\",\"padding-left\":\"5px\",\"padding-right\":\"5px\",\"padding-top\":\"5px\",\"padding-bottom\":\"5px\"}}]}]}]}]}"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "47e72ecd-b21c-4b09-933e-6c1263381425",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "54425b16-8b5b-40a1-baf1-3997560a6b0e",
+          "Value": "<!doctype html><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head><title></title><!--[if !mso]><!-- --><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><!--<![endif]--><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style type=\"text/css\"></style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div class=\"mj-block\" style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div class=\"mj-column-per-100 mj-outlook-group-fix\" style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"vertical-align:top;\" width=\"100%\"><tr><td align=\"left\" style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Доброго времени суток,&nbsp;[#Recipient.Contact name#]<br><br>Сообщаем вам о транзакциях КОНТАКТНЫХ ЛИЦ.<br>Подробнее с ними можно ознакомиться в приложении к письму.</div></td></tr></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>"
+        },
+        {
+          "SchemaColumnUId": "f73ea119-e10f-4db3-a89f-02b338f69444",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "085d7c7c-fdbc-443a-ad06-1f04ace34173",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "30783337-e364-4759-827c-67fecc226fc3"
+        },
+        {
+          "SchemaColumnUId": "698c2960-3832-4ba4-ad56-8a6489b32ad4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "e6618002-83f7-419a-a866-63ea7599b123",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "26bd9f25-0d50-4c47-829f-8b286576317c",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "b1b8aa8c-787f-42e0-8af1-603d1761f75a",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "1fea7f02-7faa-4a8b-a1f9-ee4e05fef97d",
+          "Value": "a13a8825-160f-4932-b782-4a7ff9e31a09",
+          "DisplayValue": "EmailTemplate30783337-e364-4759-827c-67fecc226fc3.png"
+        },
+        {
+          "SchemaColumnUId": "feab52f3-9df5-4499-8425-855973838905",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "382c1794-3e8d-4895-91ce-02c9f5e3553e",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "613d189f-c6a0-4ec4-b2b0-a43199cacef4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "cf75d513-0d42-439c-b19f-8c7fe4234460",
+          "Value": "e75ac3fe-be9b-4a01-87db-c7dffd354f8c",
+          "DisplayValue": "Personal message to each recipient"
+        },
+        {
+          "SchemaColumnUId": "aa4c5784-7f68-47d8-b7bb-ee3f89221ac8",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "2e7c35e3-0774-4a4a-bea5-6ce4c8de1465",
+          "Value": "Контактному лицу о транзакциях"
+        },
+        {
+          "SchemaColumnUId": "b4972436-c042-4a3b-a025-f04575f10532",
+          "Value": "{\"ItemType\":\"sheet\",\"Caption\":\"Дизайнер контента\",\"Width\":600,\"BackgroundColor\":\"#ffffff\",\"SheetAlign\":\"center\",\"BreakpointWidth\":480,\"Items\":[{\"ItemType\":\"mjblock\",\"Styles\":{\"background-position\":\"top center\",\"background-repeat\":\"no-repeat\"},\"Items\":[{\"ItemType\":\"section\",\"Styles\":{\"direction\":\"ltr\"},\"Items\":[{\"ItemType\":\"column\",\"Width\":100,\"Styles\":{},\"WrapperStyles\":{\"vertical-align\":\"top\",\"direction\":\"ltr\",\"width\":\"100%\"},\"Items\":[{\"ItemType\":\"text\",\"Content\":\"Доброго времени суток,&nbsp;[#Recipient.Contact name#]<br />\\n<br />\\nСообщаем вам о транзакциях КОНТАКТНЫХ ЛИЦ.<br />\\nПодробнее с ними можно ознакомиться в приложении к письму.\",\"Styles\":{\"font-family\":\"Arial, Helvetica, sans-serif\",\"font-size\":\"13px\",\"color\":\"#000001\",\"line-height\":\"22px\",\"text-align\":\"left\",\"padding-left\":\"5px\",\"padding-right\":\"5px\",\"padding-top\":\"5px\",\"padding-bottom\":\"5px\"}}]}]}]}]}"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "47e72ecd-b21c-4b09-933e-6c1263381425",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "54425b16-8b5b-40a1-baf1-3997560a6b0e",
+          "Value": "<!doctype html><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head><title></title><!--[if !mso]><!-- --><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><!--<![endif]--><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style type=\"text/css\"></style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div class=\"mj-block\" style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"width:100%;\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div class=\"mj-column-per-100 mj-outlook-group-fix\" style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"vertical-align:top;\" width=\"100%\"><tr><td align=\"left\" style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Доброго времени суток,&nbsp;[#Recipient.Contact name#]<br><br>Сообщаем вам о КЛИЕНТСКИХ транзакциях.<br>Подробнее с ними можно ознакомиться в приложении к письму.</div></td></tr></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>"
+        },
+        {
+          "SchemaColumnUId": "f73ea119-e10f-4db3-a89f-02b338f69444",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "085d7c7c-fdbc-443a-ad06-1f04ace34173",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "17a2896d-6e49-4ba6-b5e0-e162403643b7"
+        },
+        {
+          "SchemaColumnUId": "698c2960-3832-4ba4-ad56-8a6489b32ad4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "e6618002-83f7-419a-a866-63ea7599b123",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "26bd9f25-0d50-4c47-829f-8b286576317c",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "b1b8aa8c-787f-42e0-8af1-603d1761f75a",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "1fea7f02-7faa-4a8b-a1f9-ee4e05fef97d",
+          "Value": "b341be74-ce82-4db7-84ae-792df00ffddd",
+          "DisplayValue": "EmailTemplate17a2896d-6e49-4ba6-b5e0-e162403643b7.png"
+        },
+        {
+          "SchemaColumnUId": "feab52f3-9df5-4499-8425-855973838905",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "382c1794-3e8d-4895-91ce-02c9f5e3553e",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "613d189f-c6a0-4ec4-b2b0-a43199cacef4",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "cf75d513-0d42-439c-b19f-8c7fe4234460",
+          "Value": "e75ac3fe-be9b-4a01-87db-c7dffd354f8c",
+          "DisplayValue": "Personal message to each recipient"
+        },
+        {
+          "SchemaColumnUId": "aa4c5784-7f68-47d8-b7bb-ee3f89221ac8",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "2e7c35e3-0774-4a4a-bea5-6ce4c8de1465",
+          "Value": "Клиенту о транзакциях"
+        },
+        {
+          "SchemaColumnUId": "b4972436-c042-4a3b-a025-f04575f10532",
+          "Value": "{\"ItemType\":\"sheet\",\"Caption\":\"Дизайнер контента\",\"Width\":600,\"BackgroundColor\":\"#ffffff\",\"SheetAlign\":\"center\",\"BreakpointWidth\":480,\"Items\":[{\"ItemType\":\"mjblock\",\"Styles\":{\"background-position\":\"top center\",\"background-repeat\":\"no-repeat\"},\"Items\":[{\"ItemType\":\"section\",\"Styles\":{\"direction\":\"ltr\"},\"Items\":[{\"ItemType\":\"column\",\"Width\":100,\"Styles\":{},\"WrapperStyles\":{\"vertical-align\":\"top\",\"direction\":\"ltr\",\"width\":\"100%\"},\"Items\":[{\"ItemType\":\"text\",\"Content\":\"Доброго времени суток,&nbsp;[#Recipient.Contact name#]<br />\\n<br />\\nСообщаем вам о КЛИЕНТСКИХ транзакциях.<br />\\nПодробнее с ними можно ознакомиться в приложении к письму.\",\"Styles\":{\"font-family\":\"Arial, Helvetica, sans-serif\",\"font-size\":\"13px\",\"color\":\"#000001\",\"line-height\":\"22px\",\"text-align\":\"left\",\"padding-left\":\"5px\",\"padding-right\":\"5px\",\"padding-top\":\"5px\",\"padding-bottom\":\"5px\"}}]}]}]}]}"
+        }
+      ]
+    }
+  ]
+}

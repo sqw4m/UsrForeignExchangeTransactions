@@ -1,0 +1,140 @@
+﻿{
+  "Descriptor": {
+    "UId": "add53642-0282-4239-ba60-9734e58be608",
+    "Name": "EmailTemplate",
+    "ModifiedOnUtc": "\/Date(1610613516000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "93030575-f70f-4041-902e-c4badaf62c63",
+      "Name": "EmailTemplate"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "feab52f3-9df5-4499-8425-855973838905",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Priority",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "aa4c5784-7f68-47d8-b7bb-ee3f89221ac8",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ShowBeforeSending",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "382c1794-3e8d-4895-91ce-02c9f5e3553e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Recipient",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "2e7c35e3-0774-4a4a-bea5-6ce4c8de1465",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Subject",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "54425b16-8b5b-40a1-baf1-3997560a6b0e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Body",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "1fea7f02-7faa-4a8b-a1f9-ee4e05fef97d",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "PreviewImage",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "613d189f-c6a0-4ec4-b2b0-a43199cacef4",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SaveAsActivity",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "698c2960-3832-4ba4-ad56-8a6489b32ad4",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "IsHtmlBody",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "b4972436-c042-4a3b-a025-f04575f10532",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "TemplateConfig",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "085d7c7c-fdbc-443a-ad06-1f04ace34173",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "CopyRecipient",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "e6618002-83f7-419a-a866-63ea7599b123",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Macros",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "ca53e2c8-0767-4f2c-8a18-2ee5821f134e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      },
+      {
+        "ColumnUId": "47e72ecd-b21c-4b09-933e-6c1263381425",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "BlindCopyRecipient",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "f73ea119-e10f-4db3-a89f-02b338f69444",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ConfigType",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "b1b8aa8c-787f-42e0-8af1-603d1761f75a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ObjectFieldInActivity",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "cf75d513-0d42-439c-b19f-8c7fe4234460",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "SendIndividualEmail",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "26bd9f25-0d50-4c47-829f-8b286576317c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Object",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}
