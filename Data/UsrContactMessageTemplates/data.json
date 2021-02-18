@@ -1,0 +1,58 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0eba5ebf-bb48-4723-8d18-3d206c00e19e"
+        },
+        {
+          "SchemaColumnUId": "70072bb6-fe6b-47c8-b586-86d29eee4d38",
+          "Value": "806732ee-f36b-1410-a883-16d83cab0980",
+          "DisplayValue": "Contact person"
+        },
+        {
+          "SchemaColumnUId": "57e36ef7-a1b4-4d33-a617-79afd3ad974b",
+          "Value": "30783337-e364-4759-827c-67fecc226fc3",
+          "DisplayValue": "Шаблон рассылки транзакций для контактного лица (US, RU)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "232857df-0998-4861-948d-63c1af3e7b8d"
+        },
+        {
+          "SchemaColumnUId": "70072bb6-fe6b-47c8-b586-86d29eee4d38",
+          "Value": "00783ef6-f36b-1410-a883-16d83cab0980",
+          "DisplayValue": "Customer"
+        },
+        {
+          "SchemaColumnUId": "57e36ef7-a1b4-4d33-a617-79afd3ad974b",
+          "Value": "17a2896d-6e49-4ba6-b5e0-e162403643b7",
+          "DisplayValue": "Шаблон рассылки транзакций для клиента (US)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "47bc5998-2ec9-4dda-bce4-d49a5f16d236"
+        },
+        {
+          "SchemaColumnUId": "70072bb6-fe6b-47c8-b586-86d29eee4d38",
+          "Value": "60733efc-f36b-1410-a883-16d83cab0980",
+          "DisplayValue": "Employee"
+        },
+        {
+          "SchemaColumnUId": "57e36ef7-a1b4-4d33-a617-79afd3ad974b",
+          "Value": "1d79f198-184c-42fc-b34f-57898697dade",
+          "DisplayValue": "Шаблон рассылки транзакций для сотрудника (US, RU)"
+        }
+      ]
+    }
+  ]
+}
