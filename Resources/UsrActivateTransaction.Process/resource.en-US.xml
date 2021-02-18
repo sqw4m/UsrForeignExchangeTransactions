@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ActivateTr.Caption" Value="Запустить" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ActivityCategory.DisplayValue" Value="Выполнить" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Application.Caption" Value="Application" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.ActivateTr.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="BaseElements.ActivateTr.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="BaseElements.ActivateTr.Parameters.DurationPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="BaseElements.ActivateTr.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="BaseElements.ActivateTr.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.ActivateTr.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.ActivateTr.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.ActivateTr.Parameters.OwnerId.DisplayValue" Value="[#Системная переменная.Контакт текущего пользователя#]" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Project.Caption" Value="Project" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Property.Caption" Value="Properties" />
+			<Item Name="BaseElements.ActivateTr.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.ActivateTr.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.ActivateTr.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivateTr.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.ActivateTr.Parameters.RemindBeforePeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.ActivateTr.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.ActivateTr.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivateTr.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.ActivateTr.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivateTr.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.ActivateTr.Parameters.StartInPeriod.DisplayValue" Value="минут" />
+			<Item Name="BaseElements.ActivateTr.Parameters.UsrUsrTransactions.Caption" Value="Транзакции" />
+			<Item Name="Caption" Value="Запустить транзакцию" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+		</Items>
+	</Group>
+</Resources>
