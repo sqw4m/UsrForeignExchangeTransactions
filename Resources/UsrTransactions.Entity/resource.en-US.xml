@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Транзакции" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Контрагент" />
+			<Item Name="Columns.UsrClosingDate.Caption" Value="Дата закрытия" />
+			<Item Name="Columns.UsrComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrContact.Caption" Value="Контакт" />
+			<Item Name="Columns.UsrCurrency.Caption" Value="Валюта" />
+			<Item Name="Columns.UsrCurrencyRate.Caption" Value="Курс" />
+			<Item Name="Columns.UsrDate.Caption" Value="Дата" />
+			<Item Name="Columns.UsrMailingDate.Caption" Value="Дата рассылки" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrNumber.Caption" Value="Номер" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.UsrPrimaryAmount.Caption" Value="Сумма в базовой валюте" />
+			<Item Name="Columns.UsrState.Caption" Value="Статус" />
+			<Item Name="Columns.UsrSum.Caption" Value="Сумма" />
+			<Item Name="Columns.UsrTransactionDirection.Caption" Value="Направление" />
+			<Item Name="Columns.UsrTransactionStatus.Caption" Value="Состояние" />
+			<Item Name="Columns.UsrTransactionType.Caption" Value="Тип транзакции" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow1_aa71f4313704424994f4e083ca0cc37f.Caption" Value="Код не указан" />
+			<Item Name="EventsProcessSchema.BaseElements.DefaultSequenceFlow1_6a77ca3336ab4893839cf30c6b8ec18a.Caption" Value="есть номер" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_BeforeProductAdding.Caption" Value="Перед добавлением записи" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumber_UserTask.Caption" Value="Сгенерировать номер по порядку" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumber_UserTask.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumber_UserTask.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.BaseElements.GetEntitySchemaToGenerateTransactionNumberScript.Caption" Value="Определить схему объекта для генерации номера" />
+			<Item Name="EventsProcessSchema.BaseElements.SaveNumberToEntityColumn_Script.Caption" Value="Записать полученный номер объекта в колонку" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage3_ef27249a6af74bb8b84ddc37c4a639ec.Caption" Value="Перед добавлением записи" />
+			<Item Name="EventsProcessSchema.Caption" Value="Транзакции" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_a3560013937c41a7ac305998f304db59.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_a3560013937c41a7ac305998f304db59.Lanes.Lane_52810739afa141a198dc46a588cbe083.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сообщения по транзакции" />
+			<Item Name="Columns.UsrDate.Caption" Value="Дата" />
+			<Item Name="Columns.UsrMessage.Caption" Value="Сообщение" />
+			<Item Name="Columns.UsrNumber.Caption" Value="Номер" />
+			<Item Name="Columns.UsrTransaction.Caption" Value="Транзакция" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Транзакции&quot;" />
+			<Item Name="LocalizableStrings.ActivateTransaction.Value" Value="Активировать транзакцию" />
+			<Item Name="LocalizableStrings.CreateTransactionMessage.Value" Value="Создать сообщение по транзакции" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Примечания" />
+			<Item Name="LocalizableStrings.UpdateExchangeRates.Value" Value="Актуализировать курсы валют" />
+		</Items>
+	</Group>
+</Resources>
