@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddTransactionMessage.Caption" Value="Добавить данные сообщения по транзакции" />
+			<Item Name="BaseElements.AddTransactionMessage.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddTransactionMessage.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddTransactionMessage.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddTransactionMessage.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddTransactionMessage.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddTransactionMessage.Parameters.RecordDefValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[{&quot;ItemUId&quot;:&quot;c1466d9f-e6bd-4c03-b733-e9ede746a6f2&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;46c2dc1f-dce4-483e-9b3d-e11b1513d0a9&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;eece73e6-4032-402f-bb2e-7289de8672e2&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#SysVariable.CurrentDate#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Системная переменная.Текущее значение даты#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;603d4960-a1a2-45e9-b232-206a54421b01\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;cdcbb3b6-1b74-4bc8-b4ef-8e3598f41a03&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;4f7038ba-f044-427a-b6d9-260534a879dc&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;eece73e6-4032-402f-bb2e-7289de8672e2&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:0,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;9a5fa3d8-ceeb-442a-af2f-82fef4d73ae4&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;29ea54fb-f27b-4b0e-aab3-b0f42ed3113c&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;eece73e6-4032-402f-bb2e-7289de8672e2&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:0,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;b295071f-7ea9-4e62-8d1a-919bf3732ff2\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;29cee7da-7baf-4266-9c6e-69222930fcd0\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;ce8cd94e-0d83-4b0c-98d8-62bf0b5d1ddb&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;5fe0c7fb-9c5c-4dec-998d-b218d0f5f384&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;eece73e6-4032-402f-bb2e-7289de8672e2&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:0,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;b295071f-7ea9-4e62-8d1a-919bf3732ff2\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;b2ba4ce9-776b-4fae-9f80-1491d280a010\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}}]}" />
+			<Item Name="BaseElements.AddTransactionMessage.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.ReatTransactionData.Caption" Value="Читать данные транзакции" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.CanReadUncommitedData.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReatTransactionData.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="Caption" Value="Создать запись на детали Сообщения по транзакции" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.TransactionId.Caption" Value="Id транзакции" />
+		</Items>
+	</Group>
+</Resources>
