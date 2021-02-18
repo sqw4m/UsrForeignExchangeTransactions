@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a91fd20-2dfc-4d89-9112-a347a9fb5202",
+    "Name": "UsrActivateTransaction",
+    "ModifiedOnUtc": "\/Date(1611315050000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Запустить транзакцию",
+    "DependsOn": []
+  }
+}
